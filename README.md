@@ -1,5 +1,7 @@
 GrLogo
 ======
+![GNU Radio, the gnu software radio](grlogo72dpi.png "GNU Radio Logo")
+
 
 My reproduction of the GNU Radio Logo
 
